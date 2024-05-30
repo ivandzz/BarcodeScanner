@@ -1,0 +1,2 @@
+# BarcodeScanner
+Simple barcode scanner
