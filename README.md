@@ -5,17 +5,17 @@ BarcodeScanner is a fast and reliable mobile app designed to help you scan barco
 ## 📲 Features
 1. 📷 **Fast & Reliable Scanning:** Powered by AVFoundation, this app supports various barcode formats and delivers lightning-fast and precise scans.
 2. 🖼️ **Intuitive Interface:** Designed with SwiftUI, the app features a clean and adaptive interface that provides an optimal user experience across different devices.
-3. ⚠️ **Error Handling:** Built-in error management ensures seamless scanning, even in challenging environments like low light or cluttered backgrounds.
+3. ⚠️ **Error Handling:** Built-in error management ensures seamless scanning.
 4. ↔️ **Multi-format Support:** Scans barcodes in various formats.
 
 ## 🖼️ Screenshots
 Coming soon...
 
 ## 🛠️ Technology Stack
-1. SwiftUI
-2. MVVM
-3. UIKit
-4. AVFoundation
+1. **SwiftUI** – for building the user interface.
+2. **MVVM** – for separating the app's logic, view, and data to improve maintainability.
+3. **UIKit** – For integrating and managing legacy UI components with fine-grained control.
+4. **AVFoundation** – for enabling barcode scanning and camera-related functionality.
 
 ## 🚀 Getting Started
 **Prerequisites:**
